@@ -8,4 +8,5 @@ This repository is used to record my learning routes. Some problems l solved see
 | ------- | ------- |
 | [0196-delete-duplicate-emails](https://github.com/ChlorophyllA/blogs/tree/main/0196-delete-duplicate-emails/) | undefined |
 | [0197-rising-temperature](https://github.com/ChlorophyllA/blogs/tree/main/0197-rising-temperature/) | undefined |
+| [0577-employee-bonus](https://github.com/ChlorophyllA/blogs/tree/main/0577-employee-bonus/) | undefined |
 <!---LeetCode Topics End-->
