@@ -10,4 +10,5 @@ This repository is used to record my learning routes. Some problems l solved see
 | [0197-rising-temperature](https://github.com/ChlorophyllA/blogs/tree/main/0197-rising-temperature/) | undefined |
 | [0577-employee-bonus](https://github.com/ChlorophyllA/blogs/tree/main/0577-employee-bonus/) | undefined |
 | [0584-find-customer-referee](https://github.com/ChlorophyllA/blogs/tree/main/0584-find-customer-referee/) | undefined |
+| [1179-game-play-analysis-i](https://github.com/ChlorophyllA/blogs/tree/main/1179-game-play-analysis-i/) | undefined |
 <!---LeetCode Topics End-->
