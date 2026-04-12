@@ -10,7 +10,7 @@ public:
         for(i=0;j<nums.size();i++,j++){
             tmp=tmp-nums[i]+nums[j];
             if(nums[j]>nums[i])
-                sum=max(tmp,sum);
+                sum=tmp;
             // cout<<tmp<<' '<<sum<<endl;
         }
         return(sum/k);
