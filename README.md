@@ -15,8 +15,10 @@ This repository is used to record my learning routes. Some problems l solved see
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/ChlorophyllA/blogs/tree/main/0643-maximum-average-subarray-i/) | undefined |
+| [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ChlorophyllA/blogs/tree/main/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | undefined |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/ChlorophyllA/blogs/tree/main/0643-maximum-average-subarray-i/) | undefined |
+| [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ChlorophyllA/blogs/tree/main/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | undefined |
 <!---LeetCode Topics End-->
