@@ -23,4 +23,9 @@ This repository is used to record my learning routes. Some problems l solved see
 | [0643-maximum-average-subarray-i](https://github.com/ChlorophyllA/blogs/tree/main/0643-maximum-average-subarray-i/) | undefined |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ChlorophyllA/blogs/tree/main/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | undefined |
 | [2211-k-radius-subarray-averages](https://github.com/ChlorophyllA/blogs/tree/main/2211-k-radius-subarray-averages/) | undefined |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ChlorophyllA/blogs/tree/main/2463-minimum-recolors-to-get-k-consecutive-black-blocks/) | undefined |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ChlorophyllA/blogs/tree/main/2463-minimum-recolors-to-get-k-consecutive-black-blocks/) | undefined |
 <!---LeetCode Topics End-->
