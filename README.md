@@ -16,9 +16,11 @@ This repository is used to record my learning routes. Some problems l solved see
 | ------- | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/ChlorophyllA/blogs/tree/main/0643-maximum-average-subarray-i/) | undefined |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ChlorophyllA/blogs/tree/main/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | undefined |
+| [2211-k-radius-subarray-averages](https://github.com/ChlorophyllA/blogs/tree/main/2211-k-radius-subarray-averages/) | undefined |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/ChlorophyllA/blogs/tree/main/0643-maximum-average-subarray-i/) | undefined |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ChlorophyllA/blogs/tree/main/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | undefined |
+| [2211-k-radius-subarray-averages](https://github.com/ChlorophyllA/blogs/tree/main/2211-k-radius-subarray-averages/) | undefined |
 <!---LeetCode Topics End-->
