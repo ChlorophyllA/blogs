@@ -22,8 +22,8 @@ public:
             if(ma.find(nums[j])==ma.end())
                 ma.insert({nums[j],1});
             else ma[nums[j]]+=1;
-            if(ma.size()>=m)
-                ans=max(ans,tmp);
+            if(ma.size()>=m && tmp>ans)
+                ans=tmp;
             // cout<<tmp<<" i:"<<i<<" j:"<<j<<endl;
         }
         return(ans);
