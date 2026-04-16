@@ -8,13 +8,13 @@ public:
         }
         for(long j=0;j<l-k;j++){
             tmp+=cardPoints[j];
-            cout<<tmp<<endl;
+            // cout<<tmp<<endl;
         }
         ans=sum-tmp;
         for(;right<l;left++,right++){
             tmp-=cardPoints[left];
             tmp+=cardPoints[right];
-            cout<<tmp<<endl;
+            // cout<<tmp<<endl;
             ans=max(ans,sum-tmp);
         }
         return(ans);
