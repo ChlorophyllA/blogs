@@ -16,6 +16,7 @@ This repository is used to record my learning routes. Some problems l solved see
 | ------- | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/ChlorophyllA/blogs/tree/main/0643-maximum-average-subarray-i/) | undefined |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ChlorophyllA/blogs/tree/main/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | undefined |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/ChlorophyllA/blogs/tree/main/1538-maximum-points-you-can-obtain-from-cards/) | undefined |
 | [2211-k-radius-subarray-averages](https://github.com/ChlorophyllA/blogs/tree/main/2211-k-radius-subarray-averages/) | undefined |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ChlorophyllA/blogs/tree/main/2552-maximum-sum-of-distinct-subarrays-with-length-k/) | undefined |
 | [2954-maximum-sum-of-almost-unique-subarray](https://github.com/ChlorophyllA/blogs/tree/main/2954-maximum-sum-of-almost-unique-subarray/) | undefined |
@@ -24,6 +25,7 @@ This repository is used to record my learning routes. Some problems l solved see
 | ------- | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/ChlorophyllA/blogs/tree/main/0643-maximum-average-subarray-i/) | undefined |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ChlorophyllA/blogs/tree/main/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | undefined |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/ChlorophyllA/blogs/tree/main/1538-maximum-points-you-can-obtain-from-cards/) | undefined |
 | [2211-k-radius-subarray-averages](https://github.com/ChlorophyllA/blogs/tree/main/2211-k-radius-subarray-averages/) | undefined |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ChlorophyllA/blogs/tree/main/2463-minimum-recolors-to-get-k-consecutive-black-blocks/) | undefined |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ChlorophyllA/blogs/tree/main/2552-maximum-sum-of-distinct-subarrays-with-length-k/) | undefined |
@@ -37,4 +39,8 @@ This repository is used to record my learning routes. Some problems l solved see
 | ------- | ------- |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ChlorophyllA/blogs/tree/main/2552-maximum-sum-of-distinct-subarrays-with-length-k/) | undefined |
 | [2954-maximum-sum-of-almost-unique-subarray](https://github.com/ChlorophyllA/blogs/tree/main/2954-maximum-sum-of-almost-unique-subarray/) | undefined |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/ChlorophyllA/blogs/tree/main/1538-maximum-points-you-can-obtain-from-cards/) | undefined |
 <!---LeetCode Topics End-->
