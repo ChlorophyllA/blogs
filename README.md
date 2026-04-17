@@ -46,4 +46,16 @@ This repository is used to record my learning routes. Some problems l solved see
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/ChlorophyllA/blogs/tree/main/1538-maximum-points-you-can-obtain-from-cards/) | undefined |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/ChlorophyllA/blogs/tree/main/0070-climbing-stairs/) | undefined |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/ChlorophyllA/blogs/tree/main/0070-climbing-stairs/) | undefined |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/ChlorophyllA/blogs/tree/main/0070-climbing-stairs/) | undefined |
 <!---LeetCode Topics End-->
