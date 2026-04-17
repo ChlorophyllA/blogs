@@ -15,6 +15,7 @@ This repository is used to record my learning routes. Some problems l solved see
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/ChlorophyllA/blogs/tree/main/0643-maximum-average-subarray-i/) | undefined |
+| [0747-min-cost-climbing-stairs](https://github.com/ChlorophyllA/blogs/tree/main/0747-min-cost-climbing-stairs/) | undefined |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ChlorophyllA/blogs/tree/main/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | undefined |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/ChlorophyllA/blogs/tree/main/1538-maximum-points-you-can-obtain-from-cards/) | undefined |
 | [2211-k-radius-subarray-averages](https://github.com/ChlorophyllA/blogs/tree/main/2211-k-radius-subarray-averages/) | undefined |
@@ -58,4 +59,5 @@ This repository is used to record my learning routes. Some problems l solved see
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/ChlorophyllA/blogs/tree/main/0070-climbing-stairs/) | undefined |
+| [0747-min-cost-climbing-stairs](https://github.com/ChlorophyllA/blogs/tree/main/0747-min-cost-climbing-stairs/) | undefined |
 <!---LeetCode Topics End-->
