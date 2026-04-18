@@ -60,4 +60,5 @@ This repository is used to record my learning routes. Some problems l solved see
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/ChlorophyllA/blogs/tree/main/0070-climbing-stairs/) | undefined |
 | [0747-min-cost-climbing-stairs](https://github.com/ChlorophyllA/blogs/tree/main/0747-min-cost-climbing-stairs/) | undefined |
+| [2562-count-ways-to-build-good-strings](https://github.com/ChlorophyllA/blogs/tree/main/2562-count-ways-to-build-good-strings/) | undefined |
 <!---LeetCode Topics End-->
