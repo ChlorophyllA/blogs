@@ -15,7 +15,7 @@ public:
                 if(i-nums[j]>0){
                     dp[i]+=dp[i-nums[j]];
                 }
-                // cout<<i<<' '<<dp[i]<<' '<<endl;
+                cout<<i<<' '<<dp[i]<<' '<<endl;
             }
         }
         return(dp[target]);
