@@ -1,9 +1,9 @@
 class Solution {
 public:
     int totalFruit(vector<int>& fruits) {
-        unsigned int ans=0;
-        unordered_map<unsigned int,unsigned int> mmap={};
-        for (unsigned int left=0,right=0,tmp=0,l=0;right<fruits.size();right++){
+        int ans=0;
+        unordered_map<int,int> mmap={};
+        for (int left=0,right=0,tmp=0,l=0;right<fruits.size();right++){
             l++;
             if(mmap.contains(fruits[right])){
                 if(!mmap[fruits[right]]){
