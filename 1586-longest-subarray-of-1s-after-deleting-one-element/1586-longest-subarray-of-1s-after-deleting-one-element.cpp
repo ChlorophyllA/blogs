@@ -2,12 +2,12 @@ class Solution {
 public:
     int longestSubarray(vector<int>& nums) {
         long ans=0,siz=nums.size();
-        for(long left=0,right=0,l=0,tmp=0;left<siz,right<siz;right++){            
+        for(long left=0,right=0,l=0,tmp=0;right<siz;right++){            
             if(nums[right]) l++;
             else{
                 tmp++;
             }
-            while(tmp>1 && left<right){
+            while(tmp>1){
                 if(!nums[left]){
                     // l--;
                     tmp--;
