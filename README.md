@@ -18,6 +18,7 @@ This repository is used to record my learning routes. Some problems l solved see
 | [0377-combination-sum-iv](https://github.com/ChlorophyllA/blogs/tree/main/0377-combination-sum-iv/) | undefined |
 | [0643-maximum-average-subarray-i](https://github.com/ChlorophyllA/blogs/tree/main/0643-maximum-average-subarray-i/) | undefined |
 | [0747-min-cost-climbing-stairs](https://github.com/ChlorophyllA/blogs/tree/main/0747-min-cost-climbing-stairs/) | undefined |
+| [0940-fruit-into-baskets](https://github.com/ChlorophyllA/blogs/tree/main/0940-fruit-into-baskets/) | undefined |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ChlorophyllA/blogs/tree/main/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | undefined |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/ChlorophyllA/blogs/tree/main/1538-maximum-points-you-can-obtain-from-cards/) | undefined |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ChlorophyllA/blogs/tree/main/1586-longest-subarray-of-1s-after-deleting-one-element/) | undefined |
@@ -29,6 +30,7 @@ This repository is used to record my learning routes. Some problems l solved see
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ChlorophyllA/blogs/tree/main/0003-longest-substring-without-repeating-characters/) | undefined |
 | [0643-maximum-average-subarray-i](https://github.com/ChlorophyllA/blogs/tree/main/0643-maximum-average-subarray-i/) | undefined |
+| [0940-fruit-into-baskets](https://github.com/ChlorophyllA/blogs/tree/main/0940-fruit-into-baskets/) | undefined |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ChlorophyllA/blogs/tree/main/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | undefined |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/ChlorophyllA/blogs/tree/main/1538-maximum-points-you-can-obtain-from-cards/) | undefined |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ChlorophyllA/blogs/tree/main/1586-longest-subarray-of-1s-after-deleting-one-element/) | undefined |
@@ -45,6 +47,7 @@ This repository is used to record my learning routes. Some problems l solved see
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ChlorophyllA/blogs/tree/main/0003-longest-substring-without-repeating-characters/) | undefined |
+| [0940-fruit-into-baskets](https://github.com/ChlorophyllA/blogs/tree/main/0940-fruit-into-baskets/) | undefined |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ChlorophyllA/blogs/tree/main/2552-maximum-sum-of-distinct-subarrays-with-length-k/) | undefined |
 | [2954-maximum-sum-of-almost-unique-subarray](https://github.com/ChlorophyllA/blogs/tree/main/2954-maximum-sum-of-almost-unique-subarray/) | undefined |
 ## Prefix Sum
