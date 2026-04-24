@@ -26,6 +26,7 @@ This repository is used to record my learning routes. Some problems l solved see
 | [2211-k-radius-subarray-averages](https://github.com/ChlorophyllA/blogs/tree/main/2211-k-radius-subarray-averages/) | undefined |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ChlorophyllA/blogs/tree/main/2552-maximum-sum-of-distinct-subarrays-with-length-k/) | undefined |
 | [2954-maximum-sum-of-almost-unique-subarray](https://github.com/ChlorophyllA/blogs/tree/main/2954-maximum-sum-of-almost-unique-subarray/) | undefined |
+| [3677-maximum-amount-of-money-robot-can-earn](https://github.com/ChlorophyllA/blogs/tree/main/3677-maximum-amount-of-money-robot-can-earn/) | undefined |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -72,8 +73,10 @@ This repository is used to record my learning routes. Some problems l solved see
 | [1394-minimum-path-cost-in-a-grid](https://github.com/ChlorophyllA/blogs/tree/main/1394-minimum-path-cost-in-a-grid/) | undefined |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ChlorophyllA/blogs/tree/main/1586-longest-subarray-of-1s-after-deleting-one-element/) | undefined |
 | [2562-count-ways-to-build-good-strings](https://github.com/ChlorophyllA/blogs/tree/main/2562-count-ways-to-build-good-strings/) | undefined |
+| [3677-maximum-amount-of-money-robot-can-earn](https://github.com/ChlorophyllA/blogs/tree/main/3677-maximum-amount-of-money-robot-can-earn/) | undefined |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1394-minimum-path-cost-in-a-grid](https://github.com/ChlorophyllA/blogs/tree/main/1394-minimum-path-cost-in-a-grid/) | undefined |
+| [3677-maximum-amount-of-money-robot-can-earn](https://github.com/ChlorophyllA/blogs/tree/main/3677-maximum-amount-of-money-robot-can-earn/) | undefined |
 <!---LeetCode Topics End-->
