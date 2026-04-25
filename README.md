@@ -19,6 +19,7 @@ This repository is used to record my learning routes. Some problems l solved see
 | [0643-maximum-average-subarray-i](https://github.com/ChlorophyllA/blogs/tree/main/0643-maximum-average-subarray-i/) | undefined |
 | [0747-min-cost-climbing-stairs](https://github.com/ChlorophyllA/blogs/tree/main/0747-min-cost-climbing-stairs/) | undefined |
 | [0940-fruit-into-baskets](https://github.com/ChlorophyllA/blogs/tree/main/0940-fruit-into-baskets/) | undefined |
+| [0967-minimum-falling-path-sum](https://github.com/ChlorophyllA/blogs/tree/main/0967-minimum-falling-path-sum/) | undefined |
 | [1394-minimum-path-cost-in-a-grid](https://github.com/ChlorophyllA/blogs/tree/main/1394-minimum-path-cost-in-a-grid/) | undefined |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ChlorophyllA/blogs/tree/main/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | undefined |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/ChlorophyllA/blogs/tree/main/1538-maximum-points-you-can-obtain-from-cards/) | undefined |
@@ -70,6 +71,7 @@ This repository is used to record my learning routes. Some problems l solved see
 | [0070-climbing-stairs](https://github.com/ChlorophyllA/blogs/tree/main/0070-climbing-stairs/) | undefined |
 | [0377-combination-sum-iv](https://github.com/ChlorophyllA/blogs/tree/main/0377-combination-sum-iv/) | undefined |
 | [0747-min-cost-climbing-stairs](https://github.com/ChlorophyllA/blogs/tree/main/0747-min-cost-climbing-stairs/) | undefined |
+| [0967-minimum-falling-path-sum](https://github.com/ChlorophyllA/blogs/tree/main/0967-minimum-falling-path-sum/) | undefined |
 | [1394-minimum-path-cost-in-a-grid](https://github.com/ChlorophyllA/blogs/tree/main/1394-minimum-path-cost-in-a-grid/) | undefined |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ChlorophyllA/blogs/tree/main/1586-longest-subarray-of-1s-after-deleting-one-element/) | undefined |
 | [2562-count-ways-to-build-good-strings](https://github.com/ChlorophyllA/blogs/tree/main/2562-count-ways-to-build-good-strings/) | undefined |
@@ -77,6 +79,7 @@ This repository is used to record my learning routes. Some problems l solved see
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0967-minimum-falling-path-sum](https://github.com/ChlorophyllA/blogs/tree/main/0967-minimum-falling-path-sum/) | undefined |
 | [1394-minimum-path-cost-in-a-grid](https://github.com/ChlorophyllA/blogs/tree/main/1394-minimum-path-cost-in-a-grid/) | undefined |
 | [3677-maximum-amount-of-money-robot-can-earn](https://github.com/ChlorophyllA/blogs/tree/main/3677-maximum-amount-of-money-robot-can-earn/) | undefined |
 <!---LeetCode Topics End-->
