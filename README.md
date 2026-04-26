@@ -45,6 +45,7 @@ This repository is used to record my learning routes. Some problems l solved see
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ChlorophyllA/blogs/tree/main/0003-longest-substring-without-repeating-characters/) | undefined |
+| [0020-valid-parentheses](https://github.com/ChlorophyllA/blogs/tree/main/0020-valid-parentheses/) | undefined |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ChlorophyllA/blogs/tree/main/2463-minimum-recolors-to-get-k-consecutive-black-blocks/) | undefined |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -82,4 +83,8 @@ This repository is used to record my learning routes. Some problems l solved see
 | [0967-minimum-falling-path-sum](https://github.com/ChlorophyllA/blogs/tree/main/0967-minimum-falling-path-sum/) | undefined |
 | [1394-minimum-path-cost-in-a-grid](https://github.com/ChlorophyllA/blogs/tree/main/1394-minimum-path-cost-in-a-grid/) | undefined |
 | [3677-maximum-amount-of-money-robot-can-earn](https://github.com/ChlorophyllA/blogs/tree/main/3677-maximum-amount-of-money-robot-can-earn/) | undefined |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/ChlorophyllA/blogs/tree/main/0020-valid-parentheses/) | undefined |
 <!---LeetCode Topics End-->
