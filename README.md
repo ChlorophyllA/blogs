@@ -15,6 +15,7 @@ This repository is used to record my learning routes. Some problems l solved see
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0152-maximum-product-subarray](https://github.com/ChlorophyllA/blogs/tree/main/0152-maximum-product-subarray/) | undefined |
 | [0377-combination-sum-iv](https://github.com/ChlorophyllA/blogs/tree/main/0377-combination-sum-iv/) | undefined |
 | [0643-maximum-average-subarray-i](https://github.com/ChlorophyllA/blogs/tree/main/0643-maximum-average-subarray-i/) | undefined |
 | [0747-min-cost-climbing-stairs](https://github.com/ChlorophyllA/blogs/tree/main/0747-min-cost-climbing-stairs/) | undefined |
@@ -70,6 +71,7 @@ This repository is used to record my learning routes. Some problems l solved see
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/ChlorophyllA/blogs/tree/main/0070-climbing-stairs/) | undefined |
+| [0152-maximum-product-subarray](https://github.com/ChlorophyllA/blogs/tree/main/0152-maximum-product-subarray/) | undefined |
 | [0377-combination-sum-iv](https://github.com/ChlorophyllA/blogs/tree/main/0377-combination-sum-iv/) | undefined |
 | [0747-min-cost-climbing-stairs](https://github.com/ChlorophyllA/blogs/tree/main/0747-min-cost-climbing-stairs/) | undefined |
 | [0967-minimum-falling-path-sum](https://github.com/ChlorophyllA/blogs/tree/main/0967-minimum-falling-path-sum/) | undefined |
