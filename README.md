@@ -15,6 +15,7 @@ This repository is used to record my learning routes. Some problems l solved see
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/ChlorophyllA/blogs/tree/main/0128-longest-consecutive-sequence/) | undefined |
 | [0152-maximum-product-subarray](https://github.com/ChlorophyllA/blogs/tree/main/0152-maximum-product-subarray/) | undefined |
 | [0377-combination-sum-iv](https://github.com/ChlorophyllA/blogs/tree/main/0377-combination-sum-iv/) | undefined |
 | [0643-maximum-average-subarray-i](https://github.com/ChlorophyllA/blogs/tree/main/0643-maximum-average-subarray-i/) | undefined |
@@ -52,6 +53,7 @@ This repository is used to record my learning routes. Some problems l solved see
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ChlorophyllA/blogs/tree/main/0003-longest-substring-without-repeating-characters/) | undefined |
+| [0128-longest-consecutive-sequence](https://github.com/ChlorophyllA/blogs/tree/main/0128-longest-consecutive-sequence/) | undefined |
 | [0940-fruit-into-baskets](https://github.com/ChlorophyllA/blogs/tree/main/0940-fruit-into-baskets/) | undefined |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ChlorophyllA/blogs/tree/main/2552-maximum-sum-of-distinct-subarrays-with-length-k/) | undefined |
 | [2954-maximum-sum-of-almost-unique-subarray](https://github.com/ChlorophyllA/blogs/tree/main/2954-maximum-sum-of-almost-unique-subarray/) | undefined |
@@ -89,4 +91,8 @@ This repository is used to record my learning routes. Some problems l solved see
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/ChlorophyllA/blogs/tree/main/0020-valid-parentheses/) | undefined |
+## Union Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/ChlorophyllA/blogs/tree/main/0128-longest-consecutive-sequence/) | undefined |
 <!---LeetCode Topics End-->
