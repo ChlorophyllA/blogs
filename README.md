@@ -16,6 +16,7 @@ This repository is used to record my learning routes. Some problems l solved see
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0046-permutations](https://github.com/ChlorophyllA/blogs/tree/main/0046-permutations/) | undefined |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ChlorophyllA/blogs/tree/main/0121-best-time-to-buy-and-sell-stock/) | undefined |
 | [0128-longest-consecutive-sequence](https://github.com/ChlorophyllA/blogs/tree/main/0128-longest-consecutive-sequence/) | undefined |
 | [0152-maximum-product-subarray](https://github.com/ChlorophyllA/blogs/tree/main/0152-maximum-product-subarray/) | undefined |
 | [0377-combination-sum-iv](https://github.com/ChlorophyllA/blogs/tree/main/0377-combination-sum-iv/) | undefined |
@@ -76,6 +77,7 @@ This repository is used to record my learning routes. Some problems l solved see
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/ChlorophyllA/blogs/tree/main/0070-climbing-stairs/) | undefined |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ChlorophyllA/blogs/tree/main/0121-best-time-to-buy-and-sell-stock/) | undefined |
 | [0152-maximum-product-subarray](https://github.com/ChlorophyllA/blogs/tree/main/0152-maximum-product-subarray/) | undefined |
 | [0377-combination-sum-iv](https://github.com/ChlorophyllA/blogs/tree/main/0377-combination-sum-iv/) | undefined |
 | [0740-delete-and-earn](https://github.com/ChlorophyllA/blogs/tree/main/0740-delete-and-earn/) | undefined |
